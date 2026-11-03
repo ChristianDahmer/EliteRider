@@ -1,0 +1,6 @@
+{
+  "name": "LuxeDrive VIP",
+  "description": "Aplicativo executivo de transporte e transfer de luxo com rastreamento em tempo real, agendamento de viagens, pagamentos seguros, painel de frota e relatórios financeiros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
